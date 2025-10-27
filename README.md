@@ -2,8 +2,6 @@
 
 # Secure Chat App with End-to-End Encryption (E2EE)
 
-## Project 10: Cyber Security Internship Project
-
 This project implements a real-time chat application where all messages are secured using **End-to-End Encryption (E2EE)**. The server facilitates communication and public key exchange but cannot read the message content, ensuring maximum user privacy.
 
 ### Key Technologies Used
